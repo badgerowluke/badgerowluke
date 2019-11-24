@@ -1,0 +1,15 @@
+{
+    "source": "src",
+    "destination": "build",
+    "plugins": {
+      "metalsmith-templates": {
+        "engine": "handlebars",
+        "directory": "templates"
+      },
+      "metalsmith-markdown": {
+          "gfm": true,
+          "tables":true,
+          "breaks":true
+      }
+    }
+  }
