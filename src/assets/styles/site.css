@@ -20,9 +20,9 @@ body {
 }
 body,
 body a.hover,
-body a.link {
+/* body a.link {
     color:#fff
-}
+} */
 body .header {
     padding:20px
 }

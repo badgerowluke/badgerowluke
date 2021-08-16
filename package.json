@@ -10,6 +10,7 @@
   "author": "Luke Badgerow",
   "license": "ISC",
   "devDependencies": {
+    "fs": "0.0.1-security",
     "handlebars": "^4.5.3",
     "jstransformer-handlebars": "^1.1.0",
     "jstransformer-markdown": "^1.2.1",
